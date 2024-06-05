@@ -1,1 +1,2 @@
 login nuevo
+corregir paleta de color
