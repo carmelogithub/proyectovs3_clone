@@ -1,2 +1,3 @@
 una archivo nuevo
 que NO está todavía en Git
+otro texto nuevo

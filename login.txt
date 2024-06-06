@@ -1,3 +1,3 @@
 login nuevo
-corregir paleta de color
+
 parcheo del error crítico
