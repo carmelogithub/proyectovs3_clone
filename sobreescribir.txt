@@ -1,2 +1,3 @@
+contenido de repositorio remoto
 
 texto desde repositorio local
