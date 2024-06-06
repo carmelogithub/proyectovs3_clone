@@ -1,3 +1,4 @@
 login nuevo
 corregir paleta de color
 parcheo del error crítico
+un cambio desde visual studio
