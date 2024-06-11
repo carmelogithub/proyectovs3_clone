@@ -1,0 +1,13 @@
+name: Deploy en Prod
+on:
+  push:
+    branches:
+     - main
+jobs:
+  deploy:
+    runs-on: windows
+    steps:
+    - uses: actions/checkout@v2
+    - name: Script de deploy en servidor de producción
+      run: ./deployprod.sh
+      
